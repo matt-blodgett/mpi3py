@@ -1,0 +1,18 @@
+# Compiled Python modules and frozen executables
+__pycache__/
+*.pyc
+*.pyo
+*.exe
+
+# Pycharm files and folders
+.idea/**
+*.iml
+
+# Local resource files and logs
+libav/**
+rsrcpc/mpi3cfg
+rsrcpc/mpi3lib
+rsrcpc/mpi3log.txt
+rsrcpi/mpi3cfg
+rsrcpi/mpi3lib
+rsrcpi/mpi3log.txt
